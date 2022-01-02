@@ -11,9 +11,9 @@
 * `npm run test` to run test
 
 # Heroku App Link:
-`https://getir-records-challenge.herokuapp.com/getrecords`
+https://getir-records-challenge.herokuapp.com/getrecords
 
-Example of json query to https://getir-assignment-maksym.herokuapp.com/ :
+Example
 
 ` {
 "startDate": "2016-01-26",
