@@ -1,0 +1,24 @@
+{
+  "name": "getir-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "NODE_ENV=development jest",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.17.2",
+    "express-validator": "^6.14.0",
+    "http-errors": "~2.0.0",
+    "mongoose": "^6.1.4"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "supertest": "^6.1.6",
+    "nodemon": "^2.0.15"
+  }
+}
