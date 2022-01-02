@@ -10,6 +10,8 @@
 * `npm run start` to start application locally
 * `npm run test` to run test
 
+# Heroku App Link:
+`https://getir-records-challenge.herokuapp.com/getrecords`
 
 Example of json query to https://getir-assignment-maksym.herokuapp.com/ :
 
