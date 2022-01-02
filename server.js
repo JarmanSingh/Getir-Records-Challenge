@@ -16,7 +16,7 @@ app.use('/', routes);
 app.use((req, res, next)=> {
     return ErrorHandler.sendErrorResponse('NotFound', 'Invalid request Url', res);
 });
-app.listen(8080, () => {
+app.listen(config.port, () => {
     console.log("Server is Up & Running");
 });
 
